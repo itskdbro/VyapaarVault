@@ -70,9 +70,9 @@ const useStyles = makeStyles((theme) => ({
 const Invoice = () => {
   const location = useLocation();
   const [invoiceData, setInvoiceData] = useState(initialState);
-  const [rates, setRates] = useState(0);
-  const [vat, setVat] = useState(0);
-  const [currency, setCurrency] = useState(currencies[0].value);
+  const [rates, setRates] = useState(initialState.rates);
+  const [vat, setVat] = useState(initialState.vat);
+  const [currency, setCurrency] = useState('INR');
   const [subTotal, setSubTotal] = useState(0);
   const [total, setTotal] = useState(0);
   const today = new Date();
