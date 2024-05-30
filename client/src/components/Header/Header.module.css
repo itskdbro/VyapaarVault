@@ -1,0 +1,67 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 60px;
+  border-bottom: 1px solid rgb(218, 218, 218);
+  margin-right: 50px;
+  /* background-color: #1976d2; */
+}
+
+.header2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+  border-bottom: 1px solid rgb(218, 218, 218);
+  padding-left: 20px;
+  background-color: white;
+  position: sticky;
+}
+
+.logo {
+  width: 170px;
+  height: 170px;
+}
+
+.login {
+  border: 1px solid #1f1f1f;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: white;
+  color: #1f1f1f;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  outline: none;
+  margin-right: 20px;
+  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+.login:hover {
+  background-color: #0070f3;
+  color: white;
+  border: 1px solid white;
+}
+
+.navlogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+.logotext {
+  font-size: 20px;
+  color: #1f1f1f;
+  text-transform: uppercase;
+}
+.logotext2 {
+  padding-left: 2px;
+  color: #646464;
+}
+.logotextdiv {
+  display: flex;
+  flex-direction: column;
+  /* gap: 1px; */
+}

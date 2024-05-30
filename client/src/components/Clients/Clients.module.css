@@ -1,0 +1,17 @@
+.pageLayout {
+  margin-top: 60px;
+}
+
+.intro {
+  padding-top: 30px;
+  margin-left: 110px;
+  /* background-color: red */
+}
+.introtxt {
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.introtxt span {
+  color: #0070f3;
+}
