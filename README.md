@@ -1,7 +1,7 @@
 
 # VYAPAAR VAULT (Easy invoicing solutions)
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
-![Invoice](https://res.cloudinary.com/almpo/image/upload/v1637311386/invoice/invoice-app_tcz0dj.png)
+![Invoice](https://asset.cloudinary.com/dioh2awga/858b339d4eb2758b0adb3d3d829f2c91)
 
 
 Keshav Dhawan
@@ -19,9 +19,9 @@ Keshav Dhawan
   * [License](#license)
 
 ## Introduction
-Vyapaar Vault is a full stack invoicing application made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed for freelancers and small businesses, but can be used for almost any type of business need. With this application, you can send beautiful invoices, receipts, estimates, quotes, bills etc to your clients. Jump right off the [Live App](https://accountill.com/).This project is something I've created this project in my final year of gradution with total of 4 members contribution. 
+Vyapaar Vault is a full stack invoicing application made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed for freelancers and small businesses, but can be used for almost any type of business need. With this application, you can send beautiful invoices, receipts, estimates, quotes, bills etc to your clients. Jump right off the [Live App](https://vyapaar-vault.vercel.app/).This project is something I've created this project in my final year of gradution with total of 4 members contribution. 
 
-![Invoice Dashboard](https://res.cloudinary.com/almpo/image/upload/v1637314504/invoice/dashboard_c5z0is.png)
+![Invoice Dashboard](https://asset.cloudinary.com/dioh2awga/804f39cbffd8384f88b9f65eb07a8888)
 
 ## Key Features
 - Send invoices, receipts, estimates, quotations and bills via email
